@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @nayaCodeStudio
-- 👀 I’m interested in design
-- 🌱 I’m currently learning design UI and UX using Wimsical, Figma, Adobe Ai, Photoshop, Trello and InVision App.
-- 💞️ I’m looking to collaborate on UI/UX Designer.
+- 👀 I’m interested in design and software testing
+- 🌱 I’m currently learning design UI and UX using Wimsical, Figma, Adobe Ai, Trello, InVision App and Katalon Studio for software testing.
+- 💞️ I’m looking to collaborate on UI/UX Designer and Software Quality Assurance.
 - 📫 How to reach me? You can use Gmail, send me a message to nurwiyoga@gmail.com
+
+Thank you!
 
 <!---
 nayaCodeStudio/nayaCodeStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
