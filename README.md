@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @nayaCodeStudio
-- 👀 I’m interested in design and software testing
-- 🌱 I’m currently learning design UI and UX using Wimsical, Figma, Adobe Ai, Trello, InVision App and Katalon Studio for software testing.
-- 💞️ I’m looking to collaborate on UI/UX Designer and Software Quality Assurance.
-- 📫 How to reach me? You can use Gmail, send me a message to nurwiyoga@gmail.com
-
-Thank you!
-
-<!---
-nayaCodeStudio/nayaCodeStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a fresh graduate of Computer Science, have completed my studies well, and obtained a GPA score of 3.74 out of 4.00 with a very good predicate. I have some internship experience in android mobile app development and mobile app testing. Able to work well in a team or individually in carrying out each task that has been given. Versatile team player with good interpersonal and communication skills. Understand the concept of software testing and also can create a series of test cases in software testing with Katalon Studio for automation testing and able to manual testing.
