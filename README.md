@@ -10,8 +10,6 @@ I love the entire process of developing automation testing. I love the challenge
 
 ## Summary my GitHub :
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=nayaCodeStudio)](https://github.com/nayaCodeStudio)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaCodeStudio&layout=compact)](https://github.com/nayaCodeStudio)
 
 ## I'm currently working on :
