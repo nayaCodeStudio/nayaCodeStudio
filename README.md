@@ -5,7 +5,7 @@ I'm a QA Engineer
 </h2> 
 
 <p align="center">
-I experienced as a Junior QA Engineer, I have mastered several skills in creating positive and negative test case scenarios, creating or developing automated tests script, and doing manual testing in web and mobile application testing.
+I experienced as a Junior QA Engineer, I have mastered several skills in creating positive and negative test case scenarios, creating or developing script automation tests, and doing manual testing in web and mobile application testing.
 </p>
 
 ## Summary my GitHub :
