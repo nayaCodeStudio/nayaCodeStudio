@@ -5,7 +5,7 @@ I'm a QA Engineer
 </h2> 
 
 <p align="center">
-I love the entire process of developing automation testing. I love the challenge of test case and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing automation testing. I love the challenge of test cases and spending time meeting new people. Learning how people hide things and where people are likely to look.
 </p>
 
 ## Summary my GitHub :
@@ -20,7 +20,7 @@ I love the entire process of developing automation testing. I love the challenge
 
 - Create and develop automation testing for regression test web and mobile apps.
 
-- Create and develop negative and positive test case.
+- Create and develop negative and positive test cases.
 
 ## Technical Skills :
 
