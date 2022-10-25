@@ -14,7 +14,7 @@ I love the entire process of developing automation testing. I love the challenge
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaCodeStudio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## I'm currently working on :
+## I'm Currently Working On :
 
 - Black box testing mobile apps and web apps.
 
@@ -22,7 +22,7 @@ I love the entire process of developing automation testing. I love the challenge
 
 - Create and develop negative and positive test case.
 
-## Technical Skill :
+## Technical Skills :
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
