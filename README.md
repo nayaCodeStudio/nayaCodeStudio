@@ -5,7 +5,7 @@ I'm a QA Engineer
 </h2> 
 
 <p align="center">
-Previously I had experience as a Junior Android Developer, after gaining knowledge and knowing the fundamentals until I knew the scope of software development. It was part of my plan in pursuing my career, namely wanting to have a career as a professional QA Engineer. Now I have mastered automation testing, manual testing, black box testing, regression testing, and creating or developing test case scenarios for testing web and mobile apps. I love the entire process and the challenge of creating or developing automation testing, making test cases, and spending time meeting new people. Learning how people hide things and where people are likely to look.
+I experienced as a Junior QA Engineer, I have mastered several skills in creating positive and negative test case scenarios, creating or developing automated tests script, and doing manual testing in web and mobile application testing.
 </p>
 
 ## Summary my GitHub :
