@@ -16,7 +16,7 @@ I love the entire process of developing automation testing. I love the challenge
 
 - Black box testing mobile apps and web apps.
 
-- Create and develop automation testing for regression test mobile apps and web apps.
+- Create and develop automation testing for regression test web and mobile apps.
 
 - Create and develop negative and positive test case.
 
