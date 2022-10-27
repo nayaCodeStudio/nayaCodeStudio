@@ -1,11 +1,11 @@
 ![Banner GitHub](https://user-images.githubusercontent.com/52105079/196592011-668ac4a5-d3b6-4f68-880c-18acedc3e679.png)
 
 <h2 align="center">
-I'm a QA Engineer
+I'm a Junior QA Engineer
 </h2> 
 
 <p align="center">
-I experienced as a Junior QA Engineer, I have mastered several skills in creating positive and negative test case scenarios, creating or developing script automation tests, and doing manual testing in web and mobile application testing.
+Being a Junior QA Engineer, I do have experience in preparing test plans and writing test cases. I use to attend several meetings with project managers, business analysts, and sometimes with clients. I’ve hands-on experience in testing mobile applications, and web-based applications, creating or developing script automation tests, etc. While thinking of different types of testing, I have explored many things such as smoke testing, integration testing, regression testing, black box testing, and UAT testing.
 </p>
 
 ## Summary my GitHub :
