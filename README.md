@@ -10,9 +10,9 @@ Being a Junior QA Engineer, I do have experience in preparing test plans and wri
 
 ## Summary my GitHub :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nayaCodeStudio&theme=dark&background=000000)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nayaCodeStudio&theme=dark&background=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaCodeStudio&layout=compact&theme=dark&bg_color=000000)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaCodeStudio&layout=compact&theme=dark&bg_color=000000)
 
 ## I'm Currently Working On :
 
