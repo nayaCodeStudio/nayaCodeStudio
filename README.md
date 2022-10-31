@@ -36,8 +36,6 @@ Being a Junior QA Engineer, I do have experience in preparing test plans and wri
 
 ![](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 
-![](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
-
 ## Contact Me :
 
 <div id="badges">
