@@ -1,4 +1,4 @@
-![Banner GitHub](https://user-images.githubusercontent.com/52105079/199040961-14c297af-f9f4-4305-9722-5aabff411935.png)
+![Banner GitHub](https://user-images.githubusercontent.com/52105079/199041815-5bd841f2-3bc8-41ee-bb17-e5fd4dd6e549.png)
 
 <h2 align="center">
 I'm a Junior QA Engineer
