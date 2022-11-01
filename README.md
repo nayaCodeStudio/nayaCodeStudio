@@ -5,7 +5,7 @@ I'm a Junior QA Engineer
 </h2> 
 
 <p align="center">
-Being a Junior QA Engineer, I do have experience in preparing test plans and writing test cases. I use to attend several meetings with project managers, business analysts, and sometimes with clients. I’ve hands-on experience in testing mobile applications, and web-based applications, creating or developing script automation tests, etc. While thinking of different types of testing, I have explored many things such as smoke testing, integration testing, regression testing, black box testing, and UAT testing.
+Being a Junior QA Engineer, I do have experience in preparing test plans and writing test cases. I used to attend several meetings with project managers, business analysts, and sometimes with clients. I’ve hands-on experience in testing mobile and web-based applications, creating or developing script automation tests, etc. While thinking of different types of testing, I have explored many things such as smoke testing, integration testing, regression testing, black box testing, and UAT testing.
 </p>
 
 ## Summary my GitHub :
