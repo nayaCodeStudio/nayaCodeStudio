@@ -16,15 +16,21 @@ Being a QA Engineer, I do have experience in preparing test plans and writing te
 
 ## I'm Currently Working On :
 
-- Black box testing mobile apps and web apps.
+- Led test planning and strategy for the projects, resulting in improved test coverage and early defect identification.
 
-- Create and develop automation testing for regression test web and mobile apps.
+- Designed and executed test cases, ensuring thorough testing of critical software features and functionalities.
 
-- Create and develop negative and positive test cases.
+- Collaborated closely with the development team to document and track software defects, ensuring timely resolution.
+
+- Implemented test automation frameworks using Webdriver.IO, Behave Framework, Katalon Studio, Cucumber, Appium, reducing testing time and improving overall efficiency.
+
+- Maintained comprehensive test documentation, including test plans, test cases, and test results.
+
+- Actively participated in daily standups, sprint planning meetings, and retrospectives to provide insights on product quality and release readiness.
 
 ## Highlight Skills :
 
-Bug Report and Ticketing • Black Box Testing • Mobile and Web Automation Testing • WebdriverIO • Katalon • Cucumber • Appium • Behave Framework • Mocha Framework • JavaScript • BrowserStack • Python (Programming Language) • Microsoft Azure • Jira
+Bug Report and Ticketing · Black Box Testing · Mobile and Web Automation Testing · WebdriverIO · TestComplete · Cucumber · Appium · Behave Framework · Mocha Framework · JavaScript · BrowserStack · Python (Programming Language) · Jira · Agile Methodologies · Scrum · Jenkins
 
 ## Contact Me :
 
