@@ -16,17 +16,26 @@ Results-driven QA Engineer with a proven track record in preparing meticulous te
 
 ## I'm Currently Working On
 
-- Led test planning and strategy for the projects, resulting in improved test coverage and early defect identification.
+- Test Planning and Execution: Developing test plans, test cases, and test scripts to ensure comprehensive testing of software applications or systems.
 
-- Designed and executed test cases, ensuring thorough testing of critical software features and functionalities.
+- Defect Management: Identifying, documenting, and tracking software defects and issues, and working with development teams to ensure timely resolution.
 
-- Collaborated closely with the development team to document and track software defects, ensuring timely resolution.
+- Test Automation: Designing, developing, and maintaining automated test frameworks and scripts to streamline the testing process and improve efficiency.
 
-- Implemented test automation frameworks using Webdriver.IO, Behave Framework, Katalon Studio, Cucumber, Appium, reducing testing time and improving overall efficiency.
+- Test Strategy and Process Improvement: Collaborating with cross-functional teams to define and implement effective test strategies and processes, including continuous integration and testing.
 
-- Maintained comprehensive test documentation, including test plans, test cases, and test results.
+- Requirements Analysis: Analyzing software requirements and specifications to develop test strategies and ensure the alignment of testing activities with project objectives.
 
-- Actively participated in daily standups, sprint planning meetings, and retrospectives to provide insights on product quality and release readiness.
+- Test Documentation: Creating and maintaining test documentation, including test plans, test cases, and test reports, to ensure traceability and provide insights into the testing process.
+
+- Regression Testing: Conduct regression testing to ensure that software updates or changes do not introduce new defects or impact existing functionality.
+
+- Performance Testing: Designing and executing performance tests to assess the scalability, stability, and responsiveness of software applications.
+
+- Collaboration and Communication: Collaborating with cross-functional teams, including developers, business analysts, and project managers, to ensure clear communication and understanding of project requirements and objectives.
+
+- Quality Assurance Process Compliance: Ensuring adherence to quality assurance processes, standards, and best practices to deliver high-quality software products.
+
 
 ## Highlight Skills
 
