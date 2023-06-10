@@ -5,7 +5,7 @@ I'm a QA Engineer
 </h2> 
 
 <p align="left">
-As a QA Engineer, I have experience preparing test plans and writing test cases. I used to attend several meetings with project managers, business analysts, developers, and sometimes with clients. I am possessing an in-depth knowledge of software testing methodologies, experience in developing and maintaining automated testing scripts, have strong analytical skills to identify issues and deliver effective solutions. Able to adapt and work in a fast-paced and changing development environment, as well as coordinate with the development team to ensure products or services meet requirements.
+Results-driven QA Engineer with a proven track record in preparing meticulous test plans, crafting comprehensive test cases, and ensuring the delivery of high-quality software products. Skilled in collaborating effectively with project managers, business analysts, developers, and clients to align testing efforts with project goals and stakeholder expectations. Possessing an extensive knowledge of software testing methodologies, I excel in designing and maintaining automated testing scripts, driving efficiency and accuracy in testing processes. My strong analytical skills enable me to identify complex issues, perform root cause analysis, and deliver effective solutions, contributing to the overall improvement of software quality.
 </p>
 
 ## Summary my GitHub
