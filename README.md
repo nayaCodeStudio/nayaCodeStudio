@@ -5,7 +5,7 @@ I'm a QA Engineer
 </h2> 
 
 <p align="left">
-Results-driven QA Engineer with a proven track record in preparing meticulous test plans, crafting comprehensive test cases, and ensuring the delivery of high-quality software products. Skilled in collaborating effectively with project managers, business analysts, developers, and clients to align testing efforts with project goals and stakeholder expectations. Possessing an extensive knowledge of software testing methodologies, I excel in designing and maintaining automated testing scripts, driving efficiency and accuracy in testing processes. My strong analytical skills enable me to identify complex issues, perform root cause analysis, and deliver effective solutions, contributing to the overall improvement of software quality.
+I am a results-oriented QA Engineer with a demonstrated track record in formulating meticulous test plans, developing comprehensive test cases, and ensuring the delivery of high-quality software products. Proficient in effective collaboration with project managers, business analysts, developers, and clients to align testing efforts with project goals and stakeholder expectations. Possessing extensive knowledge of software testing methodologies, I excel in the design and maintenance of automated testing scripts, driving efficiency and accuracy in testing processes. Leveraging strong analytical skills, I identify complex issues, conduct root cause analysis, and deliver effective solutions, thereby contributing to the overall enhancement of software quality.
 </p>
 
 ## Summary my GitHub
@@ -39,7 +39,7 @@ Results-driven QA Engineer with a proven track record in preparing meticulous te
 
 ## Highlight Skills
 
-Bug Report and Ticketing · Black Box Testing · Mobile and Web Automation Testing · WebdriverIO · TestComplete · Cucumber · Appium · Behave Framework · Mocha Framework · JavaScript · BrowserStack · Python (Programming Language) · Jira · Agile Methodologies · Scrum · Jenkins
+Quality Assurance · Agile Methodologies · Scrum · Test Cases · API Testing · Smoke Testing · Regression Testing · Manual Testing · Bug Report and Ticketing · Appium · Postman API · TestComplete · JavaScript · Trello · BrowserStack · WebdriverIO · Mocha Framework · Cucumber · JavaScript · Python (Programming Language) · Microsoft Azure · Jira · Jenkins · TestRail · Appium · Linux · Behave Framework · Git · Katalon Studio · Maestro Studio · Selenium · YAML · Cypress · Testmo · Taiga · Gitlab
 
 ## Contact Me
 
